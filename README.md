@@ -3,10 +3,11 @@
 Bem-vindo ao repositório de **Lógica de Programação em Rust**! Este projeto foi criado para ajudar iniciantes a aprenderem os conceitos fundamentais de programação usando Rust, uma linguagem moderna, segura e de alta performance.
 
 Aqui, você encontrará:
-- Explicações teóricas
+- Explicações teóricas dentro dos códigos
 - Exemplos práticos
-- Exercícios para praticar
-- Projetos simples para aplicar seus conhecimentos
+- Exercícios para resolvidos
+- Projetos simples
+- Códigos utilizados no livro
 
 ---
 
