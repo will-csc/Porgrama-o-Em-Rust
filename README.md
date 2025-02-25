@@ -56,7 +56,7 @@ Aqui, você encontrará:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/logica-programacao-rust.git
+   git clone https://github.com/will-csc/Programa--Em-Rust.git
 
 ## **Contato**
 
